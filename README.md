@@ -33,7 +33,7 @@ A few representative samples are shown below.
 Access to the FNF Database requires completion of a **License Agreement**.
 
 ### Steps to Request Access
-1. Download and fill the **FNF_Licence_Agreement.pdf** provided.
+1. Download and fill the [**FNF_License_Agreement.pdf**](FNF_License_Agreement.pdf) provided.
 2. Ensure the License Agreement is **signed by an authorized institutional representative** (students must also obtain their advisor’s signature).
 3. Email the signed license agreement to the contact address below.
 4. Once filled, a **secure download link** valid for **48 hours** will be provided.
