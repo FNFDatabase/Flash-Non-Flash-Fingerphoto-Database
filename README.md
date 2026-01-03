@@ -70,4 +70,4 @@ PDF: https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8361.pdf
 
 ## Source Code
 
-The code can be found in /src.
+The code can be found in [src](/src).
