@@ -1,4 +1,4 @@
-# Supplementary Material for Fusion2Print: Deep Flash–Non-Flash Fusion for Contactless Fingerprint Matching
+# Code Material for Fusion2Print: Deep Flash–Non-Flash Fusion for Contactless Fingerprint Matching
 
 This document lists the folders in the repository, describes their purpose, and points to the primary scripts / notebooks / resources for reproduction.
 
@@ -8,14 +8,12 @@ React Native Expo app used to capture paired flash / non-flash fingerprint image
 
 - Overview / instructions: [CameraApp/README.md](CameraApp/README.md)  
 - Main app entry: [CameraApp/App.js](CameraApp/App.js)  
-- Expo config: [CameraApp/app.json](CameraApp/app.json)  
-- Server for uploads: [CameraApp/server/backend.js](CameraApp/server/backend.js)  
+- Expo config: [CameraApp/app.json](CameraApp/app.json)   
 - Node dependencies: [CameraApp/package.json](CameraApp/package.json)  
 - iOS project file (build settings, pods): [CameraApp/ios/DataColl2.xcodeproj/project.pbxproj](CameraApp/ios/DataColl2.xcodeproj/project.pbxproj)
 
 Notes:
 - Use `npx expo start` to run the app (see [CameraApp/package.json](CameraApp/package.json)).
-- The server side saves images to a local uploads folder; see [CameraApp/server/backend.js](CameraApp/server/backend.js).
 
 
 ## 2. Spectral Domain Noise Attenuation
@@ -48,7 +46,7 @@ Notes:
 
 
 ## 5. Triplet Distillation Network
-Triplet training and distillation experiments for embedding learning.
+Triplet training, distillation experiments and finetuning code for embedding learning.
 
 - Notebook: [triplet-distil-net/triplet-distil-net-training.ipynb](triplet-distil-net/triplet-distil-net-training.ipynb)
 
@@ -71,7 +69,6 @@ Notes:
 Scripts for verification benchmarking (Verifinger / DeepPrint) and plotting metrics.
 
 - Score computation & plotting: [verification/scores.ipynb](verification/scores.ipynb)  
-- Simulated ROC / plotting utilities: [verification/test.ipynb](verification/test.ipynb)
 
 Notes:
 - Some cells expect local SDKs (Verifinger) or external pretrained models — path placeholders are present.
