@@ -68,6 +68,6 @@ NIST Interagency/Internal Report 8361, National Institute of Standards and Techn
 DOI: 10.6028/NIST.IR.8361  
 PDF: https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8361.pdf
 
-## Source Code
-
-The code can be found in [src](/src).
+## Source Code and Paper
+The source code is available in the [`src`](/src) directory, and the paper preprint can be found at:  
+https://arxiv.org/abs/2601.02318
