@@ -49,11 +49,11 @@ For dataset access requests or inquiries: **fnfdatabase.query@gmail.com**
 If you use the FNF Database in any publication (paper, thesis, report, poster, or presentation), **citation is mandatory**:
 
 ```bibtex
-@unpublished{Sahoo2025Fusion2Print,
+@unpublished{Sahoo2026Fusion2Print,
   author = {Sahoo, Roja and Namboodiri, Anoop},
   title  = {Fusion2Print: Deep Flash--Non-Flash Fusion for Contactless Fingerprint Matching},
   note   = {Manuscript under review},
-  year   = {2025},
+  year   = {2026},
   institution = {IIIT Hyderabad}
 }
 ```
@@ -69,5 +69,4 @@ DOI: 10.6028/NIST.IR.8361
 PDF: https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8361.pdf
 
 ## Source Code and Paper
-The source code is available in the [`src`](/src) directory, and the paper preprint can be found at:  
-https://arxiv.org/abs/2601.02318
+The source code is available in the [`src`](/src) directory, and the paper preprint can be found at: https://arxiv.org/abs/2601.02318
