@@ -49,7 +49,7 @@ Notes:
 Triplet training, distillation experiments and finetuning code for embedding learning.
 
 - Notebook: [triplet-distil-net/triplet-distil-net-training.ipynb](triplet-distil-net/triplet-distil-net-training.ipynb)
-- Notebook: [triplet-distil-net/style-transfer.ipynb][triplet-distil-net/style-transfer.ipynb]
+- Notebook: [triplet-distil-net/style-transfer.ipynb](triplet-distil-net/style-transfer.ipynb)
 
 Notes:
 - Includes triplet generation, semi-hard mining, teacher-student distillation hooks and evaluation code.
