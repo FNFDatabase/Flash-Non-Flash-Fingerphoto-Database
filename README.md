@@ -49,15 +49,13 @@ For dataset access requests or inquiries: **fnfdatabase.query@gmail.com**
 If you use the FNF Database in any publication (paper, thesis, report, poster, or presentation), **citation is mandatory**:
 
 ```bibtex
-@unpublished{Sahoo2026Fusion2Print,
-  author = {Sahoo, Roja and Namboodiri, Anoop},
-  title  = {Fusion2Print: Deep Flash--Non-Flash Fusion for Contactless Fingerprint Matching},
-  note   = {Manuscript under review},
-  year   = {2026},
-  institution = {IIIT Hyderabad}
+@inproceedings{Sahoo2026Fusion2Print,
+  author    = {Sahoo, Roja and Namboodiri, Anoop},
+  title     = {Fusion2Print: Deep Flash--Non-Flash Fusion for Contactless Fingerprint Matching},
+  booktitle = {Proceedings of the 28th International Conference on Pattern Recognition (ICPR), Lyon, France},
+  year      = {2026},
 }
 ```
-*(A full citation will be provided upon paper publication.)*
 
 Please email a copy of any resulting publication to the dataset authors.
 
